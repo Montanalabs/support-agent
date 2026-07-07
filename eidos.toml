@@ -1,0 +1,7 @@
+name = "support-agent"
+version = "0.1.0"
+description = "Injection-safe customer-support agent"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
