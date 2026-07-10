@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `support-agent_safe.os` — the correct design.
-- `support-agent_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `support-agent_safe.wave` — the correct design.
+- `support-agent_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
